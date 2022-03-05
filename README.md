@@ -2,7 +2,8 @@
 Solutions of Striver CP Sheet
 
 Hey Guys , I am Aakash Rana , NSIT 2021 Batch 
-My Channel Name: Algorithm Decoded
+My Channel Name: Algorithm Decoded 
+
 Explanation of every Question  and Code is available on my channel
 https://www.youtube.com/channel/UCC7IBho-COTrj5AaAWmqynw
 
